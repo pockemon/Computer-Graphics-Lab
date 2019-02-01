@@ -85,6 +85,7 @@ void drawFlag() {
         glVertex2f(-0.57, 0.305);
         
     glEnd();
+
     /*
     //right diagonal strip in red
     glBegin(GL_POLYGON);
